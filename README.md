@@ -1,7 +1,7 @@
 # Dual-LLM Local Architecture
 
 > **Status:** Work in progress / personal architecture notes  
-> **Hardware target:** Apple Silicon Mac mini with 32 GB unified memory  
+> **Hardware target:** Apple M6 Mac mini with 32 GB unified memory  
 > **Agent harness:** [Hermes Agent](https://github.com/NousResearch/hermes-agent)
 
 ## Overview
